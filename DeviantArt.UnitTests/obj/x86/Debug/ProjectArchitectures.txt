@@ -1,0 +1,2 @@
+C:\Users\Роман Пристайко\Desktop\DeviantArt\DeviantArt\DeviantArt.UnitTests\DeviantArt.UnitTests.csproj;x86
+C:\Users\Роман Пристайко\Desktop\DeviantArt\DeviantArt\DeviantArt\DeviantArt.UWP.csproj;x86

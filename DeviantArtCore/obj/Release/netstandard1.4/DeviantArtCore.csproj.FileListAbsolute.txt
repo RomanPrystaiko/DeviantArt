@@ -1,0 +1,6 @@
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\DeviantArtCore\bin\Release\netstandard1.4\DeviantArtCore.deps.json
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\DeviantArtCore\bin\Release\netstandard1.4\DeviantArtCore.dll
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\DeviantArtCore\bin\Release\netstandard1.4\DeviantArtCore.pdb
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\DeviantArtCore\obj\Release\netstandard1.4\DeviantArtCore.AssemblyInfo.cs
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\DeviantArtCore\obj\Release\netstandard1.4\DeviantArtCore.dll
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\DeviantArtCore\obj\Release\netstandard1.4\DeviantArtCore.pdb

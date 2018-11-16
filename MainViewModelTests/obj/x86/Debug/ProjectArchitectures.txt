@@ -1,0 +1,2 @@
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\DeviantArt\DeviantArt.UWP.csproj;x86
+C:\Users\rprys\documents\visual studio 2017\Projects\DeviantArt\MainViewModelTests\MainViewModelTests.csproj;x86

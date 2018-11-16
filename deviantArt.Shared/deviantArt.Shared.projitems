@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>29b47915-cd9c-4f49-b6ae-969486c08465</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>deviantArt.Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)BL\DeviantManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BL\IDeviantManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BL\StubDeviantArtManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\DeviantArtRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\IDeviantArtRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\ImageCatogory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\StubDeviantArtRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HelpingClasses\InternetHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HelpingClasses\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HelpingClasses\ViewHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\CategoryItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ImageItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\MainViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ViewModelBase.cs" />
+  </ItemGroup>
+</Project>
